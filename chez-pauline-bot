@@ -1,7 +1,0 @@
-chez-pauline-bot/
-├── package.json
-├── data.db (Généré automatiquement)
-├── knowledge.js
-├── server.js
-└── public/
-    └── index.html
